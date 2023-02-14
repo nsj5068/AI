@@ -6,8 +6,6 @@
 
 --------------------------------------------------------
 
-## AI 기술들
+## 개인 공부 파일
 
-### Deep Learning
-- 영상분할 (Image segmentation)
-- music demixing
+
